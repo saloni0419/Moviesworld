@@ -1,3 +1,6 @@
+<img width="947" alt="image" src="https://github.com/saloni0419/Moviesworld/assets/100074110/d472951d-07f0-44a8-b957-a1a21bb8b4f2">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
